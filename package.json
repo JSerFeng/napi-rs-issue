@@ -1,0 +1,29 @@
+{
+  "name": "issue",
+  "description": "SWC support for modern-js",
+  "license": "MIT",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "napi build --cargo-cwd crates/core --platform --js index.js"
+  },
+  "napi": {
+    "name": "issue",
+    "triples": {
+      "additional": [
+        "x86_64-unknown-linux-musl",
+        "aarch64-unknown-linux-gnu",
+        "i686-pc-windows-msvc",
+        "armv7-unknown-linux-gnueabihf",
+        "aarch64-apple-darwin",
+        "x86_64-unknown-freebsd",
+        "aarch64-unknown-linux-musl",
+        "aarch64-pc-windows-msvc"
+      ]
+    }
+  },
+  "dependencies": {
+    "@napi-rs/cli": "^2.11.4"
+  }
+}

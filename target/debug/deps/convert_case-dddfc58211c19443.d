@@ -1,0 +1,11 @@
+/Users/bytedance/libs/napi-rs-issue/target/debug/deps/convert_case-dddfc58211c19443.rmeta: /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/lib.rs /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/case.rs /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/converter.rs /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/pattern.rs /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/segmentation.rs
+
+/Users/bytedance/libs/napi-rs-issue/target/debug/deps/libconvert_case-dddfc58211c19443.rlib: /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/lib.rs /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/case.rs /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/converter.rs /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/pattern.rs /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/segmentation.rs
+
+/Users/bytedance/libs/napi-rs-issue/target/debug/deps/convert_case-dddfc58211c19443.d: /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/lib.rs /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/case.rs /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/converter.rs /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/pattern.rs /Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/segmentation.rs
+
+/Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/lib.rs:
+/Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/case.rs:
+/Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/converter.rs:
+/Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/pattern.rs:
+/Users/bytedance/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/segmentation.rs:
